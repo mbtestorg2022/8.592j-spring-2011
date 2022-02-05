@@ -66,10 +66,39 @@ Grading
 
 Final grades will be determined from:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework Assignments | 10% for each of 8 assignments |
-| Final Project | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10% for each of 8 assignments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Your final letter grade will reflect our best attempt to evaluate objectively your performance in the course:
 

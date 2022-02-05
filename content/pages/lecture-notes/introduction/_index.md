@@ -9,12 +9,72 @@ uid: 216ac03d-978d-1d2c-7137-b2b2dc3217ca
 Outline
 -------
 
-| TOPICS | DESCRIPTION | CATEGORY |
-| --- | --- | --- |
-| I. [Sequence]({{< baseurl >}}/pages/lecture-notes/introduction/sequence) | nucleic acids in DNA/RNA; amino-acids in proteins | information |
-| II. [Structure]({{< baseurl >}}/pages/lecture-notes/introduction/structure) | DNA double helix; RNA secondary form; protein folding | interactions |
-| III. [Function]({{< baseurl >}}/pages/lecture-notes/introduction/function) | building blocks, force and motion: membranes, tubules, motors… | mechanisms |
-| IV. [Assembly]({{< baseurl >}}/pages/lecture-notes/introduction/assembly) | networks: modules, patterns, collective dynamics… | complexity 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+{{< thopen >}}
+CATEGORY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I. [Sequence]({{< baseurl >}}/pages/lecture-notes/introduction/sequence)
+{{< tdclose >}}
+{{< tdopen >}}
+nucleic acids in DNA/RNA; amino-acids in proteins
+{{< tdclose >}}
+{{< tdopen >}}
+information
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II. [Structure]({{< baseurl >}}/pages/lecture-notes/introduction/structure)
+{{< tdclose >}}
+{{< tdopen >}}
+DNA double helix; RNA secondary form; protein folding
+{{< tdclose >}}
+{{< tdopen >}}
+interactions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III. [Function]({{< baseurl >}}/pages/lecture-notes/introduction/function)
+{{< tdclose >}}
+{{< tdopen >}}
+building blocks, force and motion: membranes, tubules, motors…
+{{< tdclose >}}
+{{< tdopen >}}
+mechanisms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IV. [Assembly]({{< baseurl >}}/pages/lecture-notes/introduction/assembly)
+{{< tdclose >}}
+{{< tdopen >}}
+networks: modules, patterns, collective dynamics…
+{{< tdclose >}}
+{{< tdopen >}}
+complexity
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Evolving Probabilities
 ----------------------
