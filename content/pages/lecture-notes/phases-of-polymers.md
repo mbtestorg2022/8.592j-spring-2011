@@ -20,4 +20,4 @@ uid: 1f389ec9-3b26-35e3-2805-53972bc6b3c5
     *   The freezing transition and associated singularities
     *   Designed REM as a model of protein folding
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec11))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec11))

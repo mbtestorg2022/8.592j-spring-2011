@@ -37,4 +37,4 @@ Some Related Links
 *   [Modelling Pigmentation Patterns](http://www.ma.hw.ac.uk/%7Epainter/research/pigmentation/fish.html)
 *   [The Alan Turing Internet Scrapbook Growth, Form and Crisis](http://www.turing.org.uk/turing/scrapbook/morph.html)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec24))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec24))

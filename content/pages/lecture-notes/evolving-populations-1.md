@@ -18,4 +18,4 @@ uid: 4fb1fa1c-9164-5669-8fd4-4d2d7cf59dda
     *   Mean time to loss
     *   Mean survival time
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec5))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec5))

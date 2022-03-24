@@ -32,4 +32,4 @@ Some Related Links
 *   Microtubule links
 *   [Nanosimulation of the cytoskeleton](http://www.pegacat.com/cbetts/phd/index.html) (a PhD thesis by Christopher Betts)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec20))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec20))

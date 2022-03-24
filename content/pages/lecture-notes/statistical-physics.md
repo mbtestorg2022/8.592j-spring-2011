@@ -21,4 +21,4 @@ uid: db9b5036-eb22-c254-3eca-3983db7f4d70
     *   Mean-field estimate of the partition function
     *   [Applet for self-avoiding walks](http://polymer.bu.edu/java/java/saw/sawapplet.html)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec10))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec10))

@@ -20,4 +20,4 @@ uid: 47a1db56-bbb6-a070-b5f9-dabe05e1a596
     *   For general drift/diffusion
     *   For population with mutations/drift/selection
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec3))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec3))

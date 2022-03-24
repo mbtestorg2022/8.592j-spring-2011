@@ -19,9 +19,9 @@ uid: 11af0f00-dc54-78ce-d85a-e3567d5d0eb2
     *   Tails of distribution in a [gapless alignment](http://online.itp.ucsb.edu/online/infobio01/altschul/)
     *   The Karlin-Dembo formula
 3.  Gapped alignments and Statistical Physics
-    *   Transfer Matrix method for [Directed Paths in Random Media (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://arxiv.org/pdf/cond-mat/9411022.pdf)
+    *   Transfer Matrix method for [Directed Paths in Random Media (PDF)](https://arxiv.org/pdf/cond-mat/9411022.pdf)
     *   Dynamic Programming method for Sequence Alignment ([Example](http://www.sbc.su.se/%7Eper/molbioinfo2001/dynprog/dynamic.html))
 
 *   [Tutorial by Ralf Bundschuh](http://online.itp.ucsb.edu/online/infobio01/bundschuh/) on Sequence Alignment (and [associated paper](http://pre.aps.org/abstract/PRE/v65/i3/e031911))
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec8))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec8))

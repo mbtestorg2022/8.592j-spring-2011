@@ -12,4 +12,4 @@ uid: a7c9084f-93b5-9127-e2d7-dd4399b1f635
     *   Estimated and observed rates
     *   Berg-von Hippel theory of facilitated diffusion
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec19))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec19))

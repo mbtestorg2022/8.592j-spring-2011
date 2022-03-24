@@ -34,4 +34,4 @@ Some Related Links
 *   On [DNA elasticity](http://dept.physics.upenn.edu/%7Epcn/mcgraw2/mcglatex.html); [Philip Nelson](http://www.physics.upenn.edu/%7Epcn/) at UPenn.
 *   [The residual potential](http://web.mit.edu/tidor/www/residual/index.html); [Bruce Tidor](http://web.mit.edu/tidor/www/index.html) at MIT.
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec9))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec9))

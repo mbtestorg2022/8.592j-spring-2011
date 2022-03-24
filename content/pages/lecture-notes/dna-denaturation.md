@@ -16,4 +16,4 @@ uid: 95e8c805-a886-c369-5df4-e57e7a7507f8
 
 *   [Meltsim](http://bioinformatics.org/meltsim/) is a package to calculate melting temperature of specified DNA sequences.
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec16))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec16))

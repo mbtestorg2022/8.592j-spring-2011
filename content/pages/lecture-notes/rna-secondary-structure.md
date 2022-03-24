@@ -22,4 +22,4 @@ uid: 7e9d23dd-2907-daae-4c1c-682e783daf0e
 *   [The Zuker group's web-page](http://www.columbia.edu/cu/zukerlab/Zuker_Lab.html)
 *   [The Vienna RNA package](http://www.tbi.univie.ac.at/%7Eivo/RNA/)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec17))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec17))

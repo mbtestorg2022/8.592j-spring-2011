@@ -28,8 +28,8 @@ A Brownian ratchet (Image from [Wikimedia Commons](http://en.wikipedia.org/wiki/
 *   [Feynman's ratchet and pawl](http://en.wikipedia.org/wiki/Brownian_ratchet):
 *   [Simulation of a Brownian motor](http://www.elmer.unibas.ch/bm/index.html)
 *   From the [web-page of George Oster](http://www.cnr.berkeley.edu/%7Egoster/home.html):
-    *   Wang, H., and G. Oster. ["Ratchets, power strokes, and molecular motors." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://nature.berkeley.edu/osterlab/wp-content/uploads/2015/02/Ratchet.pdf) _Applied Physics A_ 75, no. 315 (2002).
-    *   Bustamante, C., D. Keller, et al. ["The Physics of Molecular Motors." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://pubs.acs.org/doi/pdf/10.1021/ar0001719?rand=guxjvfkd) _Acc. Chem. Res._ 34, no. 412 (2001).
+    *   Wang, H., and G. Oster. ["Ratchets, power strokes, and molecular motors." (PDF)](https://nature.berkeley.edu/osterlab/wp-content/uploads/2015/02/Ratchet.pdf) _Applied Physics A_ 75, no. 315 (2002).
+    *   Bustamante, C., D. Keller, et al. ["The Physics of Molecular Motors." (PDF)](https://pubs.acs.org/doi/pdf/10.1021/ar0001719?rand=guxjvfkd) _Acc. Chem. Res._ 34, no. 412 (2001).
 
 7.  Asymmetric hopping models:
     *   Fisher, M. E., A. B. Kolomeisky. "[The force exerted by a molecular motor](http://www.pnas.org/cgi/content/abstract/96/12/6597?)." _PNAS_ 96, no. 6597 (1999).
@@ -49,7 +49,7 @@ Some Related Links
 *   Lecture at Delft by Gerrit E.W. Bauer 
 *   Capturing and viewing single molecules:
     *   [Optical tweezers](https://blocklab.stanford.edu/optical_tweezers.html)
-    *   [Fluorescent light microscopy (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.fluorescence-foundation.org/lectures/genova2007/lecture6.pdf)
+    *   [Fluorescent light microscopy (PDF)](http://www.fluorescence-foundation.org/lectures/genova2007/lecture6.pdf)
 
 Cell Motion
 -----------
@@ -76,7 +76,7 @@ Some Related Links
 
 *   [Cell Locomotion](http://www.bms.ed.ac.uk/research/others/smaciver/Cell%20biol.topics/Cell_Locomotion.htm)
 *   Some parameters for diverse [Cell Motion](http://www.math.ubc.ca/%7Eais/website/status/movements.html)
-*   E. M. Purcell. ["The efficiency of propulsion by a rotating flagellum." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.pnas.org/content/94/21/11307.full.pdf) _PNAS_ 94, (1997): 11307–11.
+*   E. M. Purcell. ["The efficiency of propulsion by a rotating flagellum." (PDF)](http://www.pnas.org/content/94/21/11307.full.pdf) _PNAS_ 94, (1997): 11307–11.
 *   Berg, Howard. "[Motile Behavior of Bacteria](https://doi.org/10.1063/1.882934)." _Physics Today_, January 2000, 24.
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec21))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec21))

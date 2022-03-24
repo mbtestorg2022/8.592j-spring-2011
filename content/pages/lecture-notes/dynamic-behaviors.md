@@ -47,4 +47,4 @@ Some Related Links
 *   Elowitz, MB, and S. Leibler. "[A synthetic oscillatory network of transcriptional regulators](http://www.ncbi.nlm.nih.gov/pubmed/10659856)." _Nature_ 403 (2000): 335-8.
 *   [Firefly (flash synchrony)](http://ccl.northwestern.edu/cm/models/firefly/)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec23))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec23))

@@ -88,4 +88,4 @@ Evolving Probabilities
     *   Steady state (binary distribution)
     *   Enzymatic analog
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec1))
+([Detailed Lecture Notes (PDF)]({{< baseurl >}}/resources/mit8_592js11_lec1))

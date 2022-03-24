@@ -24,7 +24,7 @@ Foundations of Molecular Evolution and Population Genetics
         1.  Genotype
         2.  Haploids vs diploids
         3.  Homo/heterozygosis, allele frequency
-        4.  [Dominant vs recessive (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://education.sdsc.edu/download/enrich/mendelian_traits.pdf): blood types
+        4.  [Dominant vs recessive (PDF)](http://education.sdsc.edu/download/enrich/mendelian_traits.pdf): blood types
     2.  Random mating: **Hardy-Weinberg equilibrium**
 4.  Genetic Drift
     1.  [Dynamics in population of constants size](http://www.biology.arizona.edu/evolution/act/drift/dna_phenotype.html)
