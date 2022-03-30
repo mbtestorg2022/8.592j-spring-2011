@@ -7,6 +7,7 @@ image_metadata:
   caption: A Brownian ratchet (Image from Wikimedia Commons)
   credit: ''
   image-alt: ''
+parent_uid: d38a3bb5-db45-98aa-d094-a523ee5c0002
 resourcetype: Image
 title: Feynman_ratchet.jpg
 uid: 70bbd1ea-1d50-d0f3-b586-2d205ef19c6c

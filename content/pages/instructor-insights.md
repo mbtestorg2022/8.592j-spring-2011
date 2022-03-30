@@ -45,7 +45,7 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [8.333 _Statistical Mechanics_](/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/)
+*   [8.333 _Statistical Mechanics_](/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013)
 
 ### Requirements Satisfied
 
